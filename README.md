@@ -28,5 +28,10 @@ baseURL: 'http://yourIP:3333'
 ## Execução
 Para executar digite: ```npm start```
 
+## Tecnologias
+* NodeJS, Express
+* ReactJS
+* ReactNative, Expo
+
 ## Licença:
 [MIT](https://choosealicense.com/licenses/mit/)
